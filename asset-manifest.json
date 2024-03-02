@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/gitdeploy/static/css/main.a030c875.css",
+    "main.js": "/gitdeploy/static/js/main.b3fbac5d.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/gitdeploy/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/img3.png": "/gitdeploy/static/media/img3.e60df5cc7e04db294d08.png",
+    "static/media/video2.mp4": "/gitdeploy/static/media/video2.215581d739c7502ab2c6.mp4",
+    "static/media/ai.png": "/gitdeploy/static/media/ai.4fabf2469aeae97cec4f.png",
+    "static/media/robot.jpg": "/gitdeploy/static/media/robot.925530ac6f0d18f99ff0.jpg",
+    "static/media/Chatbot.jpg": "/gitdeploy/static/media/Chatbot.bcc683df80a6d19a0ed5.jpg",
+    "static/media/knowledge.jpeg": "/gitdeploy/static/media/knowledge.3ea94c575818ef55840d.jpeg",
+    "static/media/grading.jpeg": "/gitdeploy/static/media/grading.79105e050e6a9c9ee343.jpeg",
+    "static/media/test2.jpeg": "/gitdeploy/static/media/test2.68dc433751b46f2d0627.jpeg",
+    "static/media/owl2.jpeg": "/gitdeploy/static/media/owl2.81e6ee5a81158155842a.jpeg",
+    "static/media/bitwit.jpeg": "/gitdeploy/static/media/bitwit.2620e7636c5e445fdec9.jpeg",
+    "static/media/personalized.jpeg": "/gitdeploy/static/media/personalized.6b83f05ec0a5dbbcff7f.jpeg",
+    "static/media/ai.jpeg": "/gitdeploy/static/media/ai.5fa0ae41dc6776109658.jpeg",
+    "static/media/owl.jpeg": "/gitdeploy/static/media/owl.3b1b4dc157b4060109fd.jpeg",
+    "index.html": "/gitdeploy/index.html",
+    "main.a030c875.css.map": "/gitdeploy/static/css/main.a030c875.css.map",
+    "main.b3fbac5d.js.map": "/gitdeploy/static/js/main.b3fbac5d.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/gitdeploy/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a030c875.css",
+    "static/js/main.b3fbac5d.js"
+  ]
+}
