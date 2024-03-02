@@ -1,0 +1,64 @@
+@keyframes cardAnimation1 {
+    0%, 100% {
+      transform: translateX(100%);
+    }
+  
+    50% {
+      transform: translateX(-100%);
+    }
+  
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  
+  @keyframes cardAnimation2 {
+    0%, 100% {
+      transform: translateX(-100%);
+    }
+  
+    50% {
+      transform: translateX(100%);
+    }
+  }
+  
+  .animation-container {
+    animation: cardAnimation1 20s linear infinite;
+    white-space: nowrap; /* Added to prevent cards from wrapping */
+  }
+  
+  .animation-container.animated {
+    animation: cardAnimation2 20s linear infinite;
+  }
+  
+  .card {
+    flex: 0 0 20%;
+  }
+  
+  @media only screen and (max-width: 480px) {
+  
+    .animation-container {
+      width: 1000px;
+    }
+  
+    .card {
+      
+      max-width: 900px; 
+     height: fit-content;
+     margin: 30px;
+    
+    }
+   .news{
+    height: fit-content;
+    
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: -700px;
+   }
+
+   
+  
+    .imgcard {
+      width: 100%; 
+    }
+  }

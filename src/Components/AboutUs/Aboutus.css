@@ -1,0 +1,20 @@
+/* Add this to your global styles or a separate CSS file */
+@media screen and (max-width: 480px) {
+    .about{
+        height: fit-content;
+    }
+   
+    .flex-row {
+      flex-direction: column; /* Stack items vertically on small screens */
+    }
+  
+    .sm-pl-10 {
+      padding-left: 0; /* Remove left padding on small screens */
+    }
+  
+    .w-full {
+      width: 100%; /* Make the image and text containers full-width on small screens */
+    }
+
+  }
+  

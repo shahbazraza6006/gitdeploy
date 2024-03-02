@@ -1,0 +1,14 @@
+/* Add this to your global styles or a separate CSS file */
+@media screen and (max-width: 480px) {
+   .faqs{
+         height: fit-content;
+
+   }
+   .fqheading {
+        margin-top: 720px;
+   }
+   
+   
+
+  }
+  

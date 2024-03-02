@@ -1,0 +1,38 @@
+.image-container img {
+    display: flex;
+    justify-content: space-around;
+    max-width: 500px; 
+   
+    width:"250px"/* Center the container */
+  }
+@keyframes floatRight {
+    0% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  
+  @keyframes floatLeft {
+    0%, 100% {
+      transform: translateX(0%);
+    }
+    50% {
+      transform: translateX(100%);
+    }
+  }
+  
+  .floating-image {
+    animation: floatRight 10s linear infinite;
+  }
+  
+  .floating-image:nth-child(odd) {
+    animation: floatLeft 10s linear infinite;
+  }
+
+    
+  

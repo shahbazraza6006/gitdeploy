@@ -1,0 +1,19 @@
+@media (max-width: 480px) {
+    .in{
+        height: fit-content;
+       
+      
+    }
+    .info h2{
+       margin-top: 90px;
+      
+    }
+    .infoimage{
+        width: auto;
+    }
+    .infoimage img{
+        height: fit-content;
+       
+    }
+    
+}

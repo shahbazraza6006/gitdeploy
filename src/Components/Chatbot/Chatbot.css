@@ -1,0 +1,11 @@
+.chatcard{
+    margin-top: 340px;
+}
+@media (max-width: 480px) {
+ .chatcard{
+    margin-top: 120px;
+}
+.chtdiv{
+    width: 220px;
+}
+}
